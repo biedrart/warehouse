@@ -1,0 +1,24 @@
+/home/artur/warehouse/android/gen/org/qtproject/example/warehouse/R.java \
+ : /home/artur/warehouse/android/res/values-pl/strings.xml \
+/home/artur/warehouse/android/res/values-ru/strings.xml \
+/home/artur/warehouse/android/res/values-ro/strings.xml \
+/home/artur/warehouse/android/res/values-et/strings.xml \
+/home/artur/warehouse/android/res/values/strings.xml \
+/home/artur/warehouse/android/res/values/libs.xml \
+/home/artur/warehouse/android/res/values-nb/strings.xml \
+/home/artur/warehouse/android/res/values-zh-rTW/strings.xml \
+/home/artur/warehouse/android/res/layout/splash.xml \
+/home/artur/warehouse/android/res/values-fa/strings.xml \
+/home/artur/warehouse/android/res/values-es/strings.xml \
+/home/artur/warehouse/android/res/values-el/strings.xml \
+/home/artur/warehouse/android/res/values-it/strings.xml \
+/home/artur/warehouse/android/res/values-id/strings.xml \
+/home/artur/warehouse/android/res/values-pt-rBR/strings.xml \
+/home/artur/warehouse/android/res/values-zh-rCN/strings.xml \
+/home/artur/warehouse/android/res/values-de/strings.xml \
+/home/artur/warehouse/android/res/values-ms/strings.xml \
+/home/artur/warehouse/android/res/values-nl/strings.xml \
+/home/artur/warehouse/android/res/values-ja/strings.xml \
+/home/artur/warehouse/android/res/values-fr/strings.xml \
+/home/artur/warehouse/android/res/values-rs/strings.xml \
+/home/artur/warehouse/android/bin/AndroidManifest.xml \

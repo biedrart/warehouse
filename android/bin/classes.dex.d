@@ -1,0 +1,26 @@
+/home/artur/warehouse/android/bin/classes.dex : \
+/home/artur/warehouse/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/artur/warehouse/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/artur/warehouse/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/artur/warehouse/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/artur/warehouse/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/artur/warehouse/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/example/warehouse/R$attr.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/example/warehouse/BuildConfig.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/example/warehouse/R.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/example/warehouse/R$array.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/example/warehouse/R$layout.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/example/warehouse/R$string.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$2.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$6.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$1.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$5.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1$1.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$3$1.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtActivity$4.class \
+/home/artur/warehouse/android/bin/classes/org/qtproject/qt5/android/bindings/QtApplication$InvokeResult.class \
+/home/artur/warehouse/android/bin/dexedLibs/annotations-0675f6d1e5f5de87a5c8f985e7c16236.jar \
+/home/artur/warehouse/android/bin/dexedLibs/--Managed_by_Qt_Creator--QtAndroid-bundled-820bf61eee591d5ccc11bf6b76143e23.jar \
